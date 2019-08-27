@@ -1,5 +1,14 @@
 # PixelUnshuffle-pytorch
-PixelUnshuffle, inverse operation of `torch.nn.PixelShuffle(upscale_factor)`
+PixelUnshuffle, inverse operation of PixelShuffle.
+
+
+
+| in pytorch                                           | inverse in PixelUnshuffle                  |
+| ---------------------------------------------------- | ------------------------------------------ |
+| `nn.PixelShuffle(upscale_factor)`                    | `PixelUnshuffle(downscale_factor)`         |
+| `nn.functional.pixel_shuffle(input, upscale_factor)` | `pixel_unshuffle(input, downscale_factor)` |
+
+
 
 **Installation:**
 
