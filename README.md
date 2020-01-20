@@ -104,3 +104,6 @@ tensor([[[[ 0.,  1.],
           [30., 31.]]]])
 
 ```
+
+A neat way can be found here:
+pytorch/pytorch#2456
