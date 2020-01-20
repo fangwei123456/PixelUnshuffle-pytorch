@@ -106,4 +106,4 @@ tensor([[[[ 0.,  1.],
 ```
 
 A neat way can be found here:
-pytorch/pytorch#2456
+[pytorch/pytorch#2456](https://github.com/pytorch/pytorch/issues/2456)
