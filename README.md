@@ -1,4 +1,8 @@
 # PixelUnshuffle-pytorch
+
+PyTorch has provided an official implement: https://pytorch.org/docs/stable/generated/torch.nn.PixelUnshuffle.html.
+
+----------------------------------------------------
 PixelUnshuffle, inverse operation of PixelShuffle.
 
 
